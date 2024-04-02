@@ -1,0 +1,1 @@
+This application is a work in progress and will eventually allow different users search for nearby golf tournaments. As well as have an option for golf course staff to add tournaments to the database.
